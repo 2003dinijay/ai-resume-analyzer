@@ -77,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756016518339</updated>
       <workItem from="1756016519249" duration="17662000" />
-      <workItem from="1756706011725" duration="9807000" />
+      <workItem from="1756706011725" duration="10040000" />
     </task>
     <task id="LOCAL-00001" summary="feat: update homepage layout and CSS styles">
       <option name="closed" value="true" />
@@ -111,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756739086082</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat: frontend">
+      <option name="closed" value="true" />
+      <created>1756739537158</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756739537158</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
