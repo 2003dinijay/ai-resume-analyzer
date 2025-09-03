@@ -7,6 +7,7 @@
     <list default="true" id="1b1db044-50e6-4fd8-831e-5b1f886aadff" name="Changes" comment="feat: frontend">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/constants/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +83,7 @@
       <workItem from="1756016519249" duration="17662000" />
       <workItem from="1756706011725" duration="11401000" />
       <workItem from="1756746805141" duration="916000" />
-      <workItem from="1756785470621" duration="8864000" />
+      <workItem from="1756785470621" duration="10130000" />
     </task>
     <task id="LOCAL-00001" summary="feat: update homepage layout and CSS styles">
       <option name="closed" value="true" />

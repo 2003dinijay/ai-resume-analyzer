@@ -28,6 +28,7 @@ export default function Home() {
       navigate('/auth?next=/');
     }
   }, [puterReady, auth.isAuthenticated, navigate, init]);
+  console.log(resumes);
 
   // Handle loading or error states
   if (isLoading || !puterReady) return <div className="text-center py-10">Loading...</div>;
@@ -45,6 +46,7 @@ export default function Home() {
         {resumes.length > 0 ? (
           <div className="resumes-section">
             {resumes.map((resume) => (
+
               <ResumeCard key={resume.id} resume={resume} />
             ))}
           </div>
